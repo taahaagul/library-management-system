@@ -2,7 +2,7 @@
 
 **CENG 301 Database Systems Project**  
 **University of Turkish Aeronautical Association**  
-**Computer Engineering Department**
+**Computer Engineering**
 
 ---
 

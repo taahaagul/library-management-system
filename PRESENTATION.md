@@ -433,6 +433,6 @@ rental-house-management-system/
 
 ## Questions & Answers
 
-**Prepared by**: [Your Names]  
-**Date**: [Presentation Date]  
-**Institution**: [University/Department]
+**Prepared by**: [Eda Aslanboğa Fahri Mert Tunçkaya Mustafa Akgün Taha Gül Yunus Emre Özcan ]  
+**Date**: [2025]  
+**Institution**: [University of Turkish Aeronautical Association / Computer Engineering]
