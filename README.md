@@ -51,6 +51,10 @@ The web interface performs database operations using all REST API endpoints. To 
 http://localhost:8080/swagger-ui/index.html
 ```
 
+## Database ER Diagram
+![Rental Management System ERD](ER-diagram.drawio)
+![Rental Management System ERD](ER-diagram.png)
+
 ## Database Scheme
 
 ![Rental Management System ERD](rental_management_system_schema.png)
